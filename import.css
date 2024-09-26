@@ -23,7 +23,7 @@
   --cyan-accent-color: #009f88;
   --cyan-interface-shadow: 0 4px 10px 0 rgb(0 0 0 / 60%);
   --cyan-font: "Montserrat", "Open Sans";
-  --cyan-background-img: url("https://dablulite.github.io/Cyan/cyan-waves.png") /* Change to "none" to use with transparency */;
+  --cyan-background-img: url("https://i.imgur.com/tcapewu_d.jpeg?maxwidth=520&shape=thumb&fidelity=high") /* Change to "none" to use with transparency */;
   --window-titlebar-size: 0;
   --brand-100: color-mix(in srgb, var(--cyan-accent-color), white 80%);
   --brand-130: color-mix(in srgb, var(--cyan-accent-color), white 74%);
