@@ -18,8 +18,8 @@
 @import url("https://dablulite.github.io/Cyan/import.css");
 :root {
 	--cyan-interface-shadow: 0 4px 10px 0 rgb(0 0 0 / 60%);
-	--cyan-font: 'Montserrat', 'Open Sans';
-	--cyan-background-img: url(https://dablulite.github.io/Cyan/cyan-waves.png);
+	--cyan-font: 'Indie flower', 'Regular 400';
+	--cyan-background-img: url();
 	--cyan-accent-color: #009f88;
 	--cyan-blur: 48px;
 	--cyan-radius-round-interface: 50px;
